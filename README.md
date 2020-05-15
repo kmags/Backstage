@@ -9,10 +9,10 @@
 * The Director of Finace does not currently have easy access to this data and therefore needs an analysis of its current state, as well as access to this data as a report going forward. 
 
 ## Potential Output
-* The output of an assignment like this for the Director of Finace would have several key components:
-** a well-articulated summary of the findings in a meeting
-** a summary of the key findings after exploratory analysis of the data in writing
-** a link to a data report that the finance team has available on demand with instructions on how to access, refresh, etc. 
+The output of an assignment like this for the Director of Finace would have several key components:
+* a well-articulated summary of the findings in a meeting
+* a summary of the key findings after exploratory analysis of the data in writing
+* a link to a data report that the finance team has available on demand with instructions on how to access, refresh, etc. 
 
 # Technical
 
