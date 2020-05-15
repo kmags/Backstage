@@ -5,9 +5,7 @@
 
 ## Assumptions
 * Weather has an effect on sales.
-** Examine the correlation between weather and uw basket weaving sales
-** Provide report for finance to access and explore this data going forward
-* The Director of Finace does not currently have easy access to this data and therefore needs an analysis of it's current state, as well as access to this data as a report going forward. 
+* The Director of Finace does not currently have easy access to this data and therefore needs an analysis of its current state, as well as access to this data as a report going forward. 
 
 ## Potential Output
 * The output of an assignment like this for the Director of Finace would have several key components:
@@ -22,7 +20,7 @@
 * For efficiency purposes, I downloaded a sample Chinook data source from GitHub (https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources) 
 * Then, I imported the dataset to a local relational data store (SQLLiteStudio) via the tool's GUI (again, for efficiency's sake).
 ** I'm on a Mac, so I chose to use SQLLiteStudio v3.2.1 as my SQL environment and data store. 
-** For enterprise data software, I've familiar with Tableau, SnowFlake, Looker, MS Sql, MySQL, Postgres, etc. They all have their pro's and con's, but version-control and re-usablility are characteristics of each that are important.
+** For enterprise data software, I've familiar with Tableau, SnowFlake, MS Sql, Oracle, Postgres, etc. They all have their pro's and con's, but version-control and re-usablility are characteristics of each that are important.
 * As a second version, I'd like to automate the process of both exporting and importing data.
 ** To fetch data on-demand, and in lieu of more formalized parterships with the data sources, I'd write a python script to export/import the various data sources (and schedule them via a cron job).
 
