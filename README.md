@@ -13,8 +13,8 @@
 ## Areas for exploratory analysis / cuts of data to be included in a report: 
 * 1) Location → Variation of weather impact by continent/country/state, etc
 * 2) Seasonality →  Does correlation of weather to sales change with the seasons?
-*    - Mapping required to assign ‘seasons’ to countries 
-*    - Month over month view will show if Christmas/holiday season sales has weather correlation
+    - Mapping required to assign ‘seasons’ to countries 
+    - Month over month view will show if Christmas/holiday season sales has weather correlation
 * 3) Additional sales metrics → Weather’s impact on: 
 *    - Avg order value, Avg daily orders, Avg daily $ per customer, Avg daily units per customer
 * 4) Customer Segmentation → Variation of weather impact on different types of customers:
