@@ -10,9 +10,9 @@
 
 ## Potential Output
 The output of an assignment like this for the Director of Finace would have several key components:
-* a well-articulated summary of the findings in a meeting
-* a summary of the key findings after exploratory analysis of the data in writing
-* a link to a data report that the finance team has available on demand with instructions on how to access, refresh, etc. 
+* An in-person meeting articulating an executive summary of the project's findings
+* A written and discoverable summary of the key findings after exploratory analysis of the data
+* A hyperlink to an ongoing data report that the Director of Finance has available on demand, with instructions on how to access, refresh, etc. 
 
 # Technical
 
