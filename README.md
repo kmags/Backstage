@@ -7,25 +7,25 @@
 ### PROPOSED PLAN 
 
 ## Objective
-* 1) Examine the correlation between weather and uw basket weaving sales
-* 2) Provide report for finance to access and explore this data going forward
+* Examine the correlation between weather and uw basket weaving sales
+* Provide report for finance to access and explore this data going forward
 
 ## Areas for exploratory analysis / cuts of data to be included in a report: 
-* 1) Location → Variation of weather impact by continent/country/state, etc
-* 2) Seasonality →  Does correlation of weather to sales change with the seasons?
-    	- Mapping required to assign ‘seasons’ to countries 
-    	- Month over month view will show if Christmas/holiday season sales has weather correlation
-* 3) Additional sales metrics → Weather’s impact on: 
-    	- Avg order value, Avg daily orders, Avg daily $ per customer, Avg daily units per customer
-* 4) Customer Segmentation → Variation of weather impact on different types of customers:
-	 	- New vs. repeat buyers, High/medium/low lifetime value segments, Customer cohort analysis 
+* Location → Variation of weather impact by continent/country/state, etc
+* Seasonality →  Does correlation of weather to sales change with the seasons?
+** Mapping required to assign ‘seasons’ to countries 
+** Month over month view will show if Christmas/holiday season sales has weather correlation
+* Additional sales metrics → Weather’s impact on: 
+** Avg order value, Avg daily orders, Avg daily $ per customer, Avg daily units per customer
+* Customer Segmentation → Variation of weather impact on different types of customers:
+** New vs. repeat buyers, High/medium/low lifetime value segments, Customer cohort analysis 
 
 
 ###DATA PROCESS
 
 ##Create data sources: 
-* 1) Chinook Data
-* 2) Weather Data 
+* Chinook Data
+* Weather Data 
 
 
 ## Chinook Data
