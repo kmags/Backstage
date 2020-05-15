@@ -1,10 +1,11 @@
+# Overview
+* In the Business section, I've outlined information and desired outcomes *for the business team* in a project like this.
+* In the Technical section, I've outlined how I would go abouts executing this project in the most efficient way possible.
+* Disclaimer: although I'm not new to data, I'm new to markdown, so please be kind to any formatting issues :) 
+
 # Business
-
-## Background
-* The Director of Finance has requested a report on correlations between the weather and our sales. 
-
-## Assumptions
-* Weather has an effect on sales.
+### Background
+* The Director of Finance has requested a report on any potential correlation between weather and our sales. 
 * The Director of Finace does not currently have easy access to this data and therefore needs an analysis of its current state, as well as access to this data as a report going forward. 
 
 ## Potential Output
