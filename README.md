@@ -20,10 +20,7 @@
 * Customer Segmentation → Variation of weather impact on different types of customers:
 ** New vs. repeat buyers, High/medium/low lifetime value segments, Customer cohort analysis 
 
-
-###DATA PROCESS
-
-##Create data sources: 
+## Create data sources 
 * Chinook Data
 * Weather Data 
 
